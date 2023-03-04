@@ -1,6 +1,6 @@
 # Global Values
-repoUrl: 'https://github.com/aws-samples/eks-blueprints-add-ons.git'
-targetRevision: HEAD
+repoUrl: 'git@github.com:oukhay/eks-blueprints-add-ons.git'
+targetRevision: main
 region: ''
 account: ''
 clusterName: ''
